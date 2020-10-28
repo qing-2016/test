@@ -1,8 +1,9 @@
 import Vue from 'vue'
 import App from './App.vue'
 
-Vue.config.productionTip = false //213123sadas
-//999阿斯达四大
+Vue.config.productionTip = false //1234
+//22
+//213123
 new Vue({
   render: h => h(App),
 }).$mount('#app')
