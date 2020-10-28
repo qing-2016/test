@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 
-Vue.config.productionTip = false //1
+Vue.config.productionTip = false //9
 
 new Vue({
   render: h => h(App),
